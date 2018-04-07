@@ -4,5 +4,5 @@ def speak_to_grandma(phrase)
   else
     puts "Okay."
   end
-
+  phrase
 end
